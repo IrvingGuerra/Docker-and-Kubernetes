@@ -1,0 +1,19 @@
+{
+  "name": "webdocker",
+  "version": "1.0.0",
+  "description": "Mi app NodeJS con Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingGuerra/Docker-and-Kubernetes.git"
+  },
+  "author": "Irving Guerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingGuerra/Docker-and-Kubernetes/issues"
+  },
+  "homepage": "https://github.com/IrvingGuerra/Docker-and-Kubernetes#readme"
+}
