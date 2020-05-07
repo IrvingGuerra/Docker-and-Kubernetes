@@ -1,5 +1,5 @@
 # Especificar imagen base
-FROM node:alpine
+FROM node:13.8.0
 
 # Instala dependencias
 COPY ./ ./
