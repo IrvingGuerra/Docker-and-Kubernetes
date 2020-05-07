@@ -2,8 +2,9 @@
 FROM node:13.8.0
 
 # Instala dependencias
-COPY ./ ./
+COPY ./package.sjon ./
 RUN npm install
+COPY ./ ./
 
 # Comando por Default
 CMD ["npm", "start"]
